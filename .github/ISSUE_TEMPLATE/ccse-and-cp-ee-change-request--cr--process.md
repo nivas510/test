@@ -1,8 +1,8 @@
 ---
 name: CCSE and CP&EE Change Request (CR) Process
 about: This Template using for Change Request process
-title: "[CR]"
-labels: ''
+title: CR
+labels: CR
 assignees: ''
 
 ---
