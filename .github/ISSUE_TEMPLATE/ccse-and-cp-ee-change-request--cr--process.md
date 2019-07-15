@@ -45,12 +45,24 @@ TECHNICAL CONSIDERATIONS - ANALYST
 - [ ] Approved with the following conditions:
 - [ ] Denied for the following reasons:
 - [ ] Deferred until this trigger occurs:
-- [ ] Escalated to MIPT because includes change to contract, scope, cost, or schedule
+- [ ] Escalated to PMO because includes change to contract, scope, cost, or schedule
 
-**Business Team:**
+**Business Owner**
 - [ ] Approved
-- [ ] Denied
+- [ ] Approved with the following conditions:
+- [ ] Denied for the following reasons:
+- [ ] Deferred until this trigger occurs:
 
-**Leadership:**
+**Program Manager:**
 - [ ] Approved
-- [ ] Denied
+- [ ] Approved with the following conditions:
+- [ ] Denied for the following reasons:
+- [ ] Deferred until this trigger occurs:
+- [ ] Not Applicable
+
+**Director:**
+- [ ] Approved
+- [ ] Approved with the following conditions:
+- [ ] Denied for the following reasons:
+- [ ] Deferred until this trigger occurs:
+- [ ] Not Applicable
