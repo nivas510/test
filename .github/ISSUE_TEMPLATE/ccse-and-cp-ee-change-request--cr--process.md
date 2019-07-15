@@ -36,3 +36,22 @@ TECHNICAL CONSIDERATIONS - ANALYST
 13.	Document downtime procedures, if needed.
 
 14.	Document communication procedures (i.e. name(s) of people or groups who need to be notified in the event of scheduled/unscheduled downtime, changes to processes, etc. and how to notify them).
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item 
+
+[‎7/‎15/‎2019 10:34 AM]  Capatch, Adam (GovernmentCIO):  
+## Voting:
+**OIT PM:**
+- [ ] Approved
+- [ ] Denied
+
+**Business Team:**
+- [ ] Approved
+- [ ] Denied
+
+**Leadership:**
+- [ ] Approved
+- [ ] Denied
