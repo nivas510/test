@@ -37,16 +37,15 @@ TECHNICAL CONSIDERATIONS - ANALYST
 
 14.	Document communication procedures (i.e. name(s) of people or groups who need to be notified in the event of scheduled/unscheduled downtime, changes to processes, etc. and how to notify them).
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item 
 
-[‎7/‎15/‎2019 10:34 AM]  Capatch, Adam (GovernmentCIO):  
+
 ## Voting:
 **OIT PM:**
 - [ ] Approved
-- [ ] Denied
+- [ ] Approved with the following conditions:
+- [ ] Denied for the following reasons:
+- [ ] Deferred until this trigger occurs:
+- [ ] Escalated to MIPT because includes change to contract, scope, cost, or schedule
 
 **Business Team:**
 - [ ] Approved
