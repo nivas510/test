@@ -39,7 +39,7 @@ TECHNICAL CONSIDERATIONS - ANALYST
 
 
 
-## Voting:
+ Approval :
 **OIT PM:**
 - [] Approved
 - [] Approved with the following conditions:
