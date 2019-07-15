@@ -1,7 +1,7 @@
 ---
 name: CCSE Change Request (CR)
 about: This Template using for Change Request process
-title: Change Request (CR)#
+title: Change Request (CR)
 labels: CR
 assignees: ''
 
