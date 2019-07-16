@@ -7,40 +7,32 @@ assignees: ''
 
 ---
 
-1.	Name of Requester:  
+1.	Name and Organization of Requester:  
 
-2.	Short name for Change Request (CR):
+2.	Title for Change Request (CR):
 
-3.	Describe in detail the change being requested:
+3.	CR details the change being requested:
 
-4.	Explain the reason this change is needed:
+4.	Business need:
 
-5.	Describe the effect implementing the change would have upon the end user and/or business operation.
+5.	Impact of CR:
 
-6.	Describe the effect of not implementing the change.
+TECHNICAL CONSIDERATIONS 
 
-TECHNICAL CONSIDERATIONS - ANALYST
+7.	Technical requirements of CR (e.g. servers, software).
 
-7.	Name of Analyst:
+8.  	Impact of the CR to down stream services and other applications.
 
-8.	List the requirements needed to implement the change (e.g. servers, software).
+9.	Level of Effort (LOE) (Cost,Time,Resources).
 
-9.	Describe the impact of the change on other services that run on the same infrastructure.
+10.	Document downtime procedures, if needed.
 
-10.	Describe the impact on other projects, programs, or applications.
-
-11.	Estimate the IT, business, and other resources required to implement the change covering the likely costs, the number and availability of people required, the elapsed time and any new infrastructure elements required.
-
-12.	Estimate any additional ongoing resources required if the change is implemented.
-
-13.	Document downtime procedures, if needed.
-
-14.	Document communication procedures (i.e. name(s) of people or groups who need to be notified in the event of scheduled/unscheduled downtime, changes to processes, etc. and how to notify them).
+11.	Document communication procedures (i.e. name(s) of people or groups who need to be notified in the event of scheduled/unscheduled downtime, changes to processes, etc. and how to notify them).
 
 
 
  Approval :
-**OIT PM:**
+**OIT PM:** 
 - [ ] Approved
 - [ ] Approved with the following conditions:
 - [ ] Denied for the following reasons:
