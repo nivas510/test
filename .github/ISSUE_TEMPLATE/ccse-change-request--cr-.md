@@ -21,7 +21,7 @@ TECHNICAL CONSIDERATIONS
 
 7.	Technical requirements of CR (e.g. servers, software).
 
-8.  	Impact of the CR to down stream services and other applications.
+8.      Impact of the CR to down stream services and other applications.
 
 9.	Level of Effort (LOE) (Cost,Time,Resources).
 
