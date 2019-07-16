@@ -41,28 +41,21 @@ TECHNICAL CONSIDERATIONS - ANALYST
 
  Approval :
 **OIT PM:**
-- [] Approved
-- [] Approved with the following conditions:
-- [] Denied for the following reasons:
-- [] Deferred until this trigger occurs:
-- [] Escalated to PMO because includes change to contract, scope, cost, or schedule
+- [ ] Approved
+- [ ] Approved with the following conditions:
+- [ ] Denied for the following reasons:
+- [ ] Deferred until this trigger occurs:
+- [ ] Escalated to PMO because includes change to contract, scope, cost, or schedule
 
 **Business Owner**
-- [] Approved
-- [] Approved with the following conditions:
-- [] Denied for the following reasons:
-- [] Deferred until this trigger occurs:
+- [ ] Approved
+- [ ] Approved with the following conditions:
+- [ ] Denied for the following reasons:
+- [ ] Deferred until this trigger occurs:
 
 **Program Manager:**
-- [] Approved
-- [] Approved with the following conditions:
-- [] Denied for the following reasons:
-- [] Deferred until this trigger occurs:
-- [] Not Applicable
-
-**Director:**
-- [] Approved
-- [] Approved with the following conditions:
-- [] Denied for the following reasons:
-- [] Deferred until this trigger occurs:
-- [] Not Applicable
+- [ ] Approved
+- [ ] Approved with the following conditions:
+- [ ] Denied for the following reasons:
+- [ ] Deferred until this trigger occurs:
+- [ ] Not Applicable
